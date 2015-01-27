@@ -1,5 +1,9 @@
-C++ library that integrates with Clickatell HTTP and REST APIs
+Clickatell C++ library that integrates with Clickatell HTTP and REST APIs
 ==============================================================
+
+You can see our other libraries and more documentation at the [Clickatell APIs and Libraries Project](http://clickatell.github.io/).
+
+------------------------------------
 
 Description of contents:
 ------------------------
